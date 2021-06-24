@@ -6,7 +6,7 @@ The Add-in prototype implements a user-friendly way to load vega.xyz data into E
 
 ## Introduction for Use
 
-### Use case 1 – Load data into a cell range in current worksheet with dynamic attribute selection
+### Use case 1 – Load Market data into a cell range in current worksheet with dynamic attribute selection
 Loads Market data with a dynamic selection of attributes (hardcoded subset of all attributes) - refers to upper orange rectangle in screenshot. 
 
 1. Click the dropdown list to select/deselect attributes or type to search for an attribute.
@@ -14,7 +14,7 @@ Loads Market data with a dynamic selection of attributes (hardcoded subset of al
 2. Click LOAD DATA button writes the dataset into the current sheet (see 2 in screenshot), the range starts as defined in destination cell input field. Every time the LOAD DATA button is clicked the result dataset is (over)written into current sheet.
 
 
-### Use case 2 – Load data into table in a separate worksheet
+### Use case 2 – Load Market Order data into a table in a separate worksheet
 Loads Market Order data with a limited predefined selection of attributes - refers to lower orange rectangle in screenshot.
 1. Click the Market dropdown list to select one or more markets or type to search for a market.
 
