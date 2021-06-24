@@ -1,4 +1,4 @@
-# vega.xyz excel addin prototype
+# vega.xyz excel addin prototype (code not committed as bounty was cancelled)
 Excel add-in prototype that loads data from vega.xyz REST API.
 
 ## Introduction
